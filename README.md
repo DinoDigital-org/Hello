@@ -1,3 +1,3 @@
-# Привет
+# >_ DinoDigital стартовал
 
-Мы разрабатываем ПО для бизнеса
+http://dinodigital.pro
